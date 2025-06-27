@@ -1,0 +1,1 @@
+#A-001 - Al agregar obstaculos  no actualiza no reinicia el camino del BFS
